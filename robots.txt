@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow:
 
-Sitemap: http://stephen-marc.github.io/sitemap.xml 
+Sitemap: http://stephen-marc.github.io/sitemap.xml
